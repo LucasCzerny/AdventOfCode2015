@@ -11,7 +11,7 @@ My happiness levels for each solution from 1-5: 🥲, 😬, 😌, 😃, 🤩
 ## How to run
 
 *NOTE:* You're not allowed to upload your puzzle input to GitHub.
-If you clone this repo, create a folder called input/ at the root and place your dayxx.txt files inside.
+If you clone this repo, create a folder called `input/` at the root and place your `dayxx.txt` files inside.
 
 To run a solution:
 
@@ -27,7 +27,7 @@ To enable the tracking allocator, which detects memory leaks and bad frees:
 odin run dayxx
 ```
 
-Note on the runtimes
+## Note on the runtimes
 
 To measure the speed of each solution, I simply do:
 
