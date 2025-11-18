@@ -1,5 +1,5 @@
 
-# Advent of Code 2024 in Odin
+# Advent of Code 2015 in Odin
 
 My happiness levels for each solution from 1-5: 🥲, 😬, 😌, 😃, 🤩
 
